@@ -1,0 +1,26 @@
+.tg {
+  width: 210px;
+  height: 270px;
+  padding-left:5px;
+  padding-right: 5px;
+  margin-top: 20px;
+  border: 2px solid black;
+}
+
+tbody, td, tfoot, th, thead, tr {
+  padding: 3px 3px 5px 8px;
+}
+
+.tg-main {
+  height: 30px;
+  border: 2px solid gray;
+  text-align: right;
+  padding-right: 5px;
+}
+
+button {
+  width: 44px;
+  height: 45px;
+  margin-top: 5px;
+  margin-right: 3px;
+}
